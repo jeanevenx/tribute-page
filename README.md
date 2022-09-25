@@ -2,7 +2,7 @@
 <img src="./assets/snapshot-tribute-page.png">
 <br/><br/>
 
-## FreeCodeCamp's first responsive web design project based on the following user stories.
+## FreeCodeCamp's first responsive web design project based on the following user stories:
 <br/><br/>
 
 ### Objective: Build an app that is functionally similar to <a>https://tribute-page.freecodecamp.rocks</a>
